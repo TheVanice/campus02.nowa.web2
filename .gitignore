@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+
+# Compiled output
+dist/
+build/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Compiled binary addons (node-webkit, Electron, etc)
+build/Release
+
